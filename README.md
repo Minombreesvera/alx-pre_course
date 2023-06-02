@@ -1,1 +1,1 @@
-my first readme
+Kenny is the best Student in ALX SE
